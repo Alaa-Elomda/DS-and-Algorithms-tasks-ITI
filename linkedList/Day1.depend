@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1671014036 source:d:\data structure & algorithms\labs\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1671012759 d:\data structure & algorithms\labs\linkedlist\include\linkedlist.h
+	"Node.h"
+	<iostream>
+	<assert.h>
+
+1670937414 d:\data structure & algorithms\labs\linkedlist\include\node.h
+
+1670938242 d:\data structure & algorithms\labs\linkedlist\include\person.h
+
+1671014411 source:d:\data structure & algorithms\labs\1st lab\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+
+1671796859 d:\data structure & algorithms\labs\1st lab\linkedlist\include\linkedlist.h
+	"Node.h"
+	<iostream>
+	<assert.h>
+
+1670937414 d:\data structure & algorithms\labs\1st lab\linkedlist\include\node.h
+

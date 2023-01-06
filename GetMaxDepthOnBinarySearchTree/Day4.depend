@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1671280292 source:d:\work\instructor\ds\intake 43\sd - ismalia\day4\main.cpp
+	<iostream>
+	"Tree.h"
+
+1671280357 d:\work\instructor\ds\intake 43\sd - ismalia\day4\include\tree.h
+	<iostream>
+	"Node.h"
+
+1671274048 d:\work\instructor\ds\intake 43\sd - ismalia\day4\include\node.h
+
+1671285019 source:d:\data structure & algorithms\labs\4th lab\getmaxdepthonbinarysearchtree\main.cpp
+	<iostream>
+	"Tree.h"
+
+1671284955 d:\data structure & algorithms\labs\4th lab\getmaxdepthonbinarysearchtree\include\tree.h
+	<iostream>
+	"Node.h"
+
+1671274048 d:\data structure & algorithms\labs\4th lab\getmaxdepthonbinarysearchtree\include\node.h
+
